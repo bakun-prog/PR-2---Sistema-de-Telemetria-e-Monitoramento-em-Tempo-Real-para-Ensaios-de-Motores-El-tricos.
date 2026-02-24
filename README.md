@@ -1,0 +1,1 @@
+# PR-2---Sistema-de-Telemetria-e-Monitoramento-em-Tempo-Real-para-Ensaios-de-Motores-El-tricos.
